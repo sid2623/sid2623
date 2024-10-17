@@ -4,8 +4,8 @@
 - Currently, I'm focusing on expanding my knowledge in data analysis and continuously working on projects that reflect my learning journey. You can find all my data-related projects here on my GitHub profile, showcasing my progress and commitment to this exciting field.
 - Feel free to explore my repositories, and let's connect if you'd like to discuss data, technology, or collaboration opportunities!
 - 📫 How to reach me:
--     Email: siddharth2623@gmail.com
--     LinkedIn:https://www.linkedin.com/in/siddartha-silveri-246211225/
+-     siddharth2623@gmail.com
+-     https://www.linkedin.com/in/siddartha-silveri-246211225/
 - Pronouns: He/Him
 
 
